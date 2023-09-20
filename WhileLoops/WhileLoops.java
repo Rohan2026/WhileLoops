@@ -1,4 +1,4 @@
-public class HelloWorld
+public class WhileLoops
 {
 
     int a = 5;
@@ -32,7 +32,7 @@ public class HelloWorld
     
     public static void main(String[] args)
     {        
-        HelloWorld hw = new HelloWorld();
+        WhileLoops hw = new WhileLoops();
         hw.run();
     }
 }
